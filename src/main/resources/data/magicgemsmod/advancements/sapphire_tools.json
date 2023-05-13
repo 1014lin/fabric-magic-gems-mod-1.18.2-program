@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "magicgemsmod:sapphire_pickaxe"
+    },
+    "title": "Tools?",
+    "description": "Where is magic?",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "magicgemsmod:sapphire",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "magicgemsmod:sapphire_pickaxe"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "magicgemsmod:raw_titanium"
+  },
+  "result": "magicgemsmod:titanium_ingot",
+  "cookingtime": 500
+}

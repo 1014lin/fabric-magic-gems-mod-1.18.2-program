@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    " A ",
+    " A "
+  ],
+  "key": {
+    "X": {
+      "item": "magicgemsmod:sapphire"
+    },
+    "A": {
+      "item": "magicgemsmod:silver_ingot"
+    }
+  },
+  "result": {
+    "item": "magicgemsmod:sapphire_pickaxe"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.lin.magicgemsmod.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+  ],
+  "client": [
+    "ExampleMixin",
+    "BrewingRecipeRegistryMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

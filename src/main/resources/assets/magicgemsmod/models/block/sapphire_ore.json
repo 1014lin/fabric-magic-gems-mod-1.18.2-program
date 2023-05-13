@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "magicgemsmod:block/sapphire_ore"
+  }
+}

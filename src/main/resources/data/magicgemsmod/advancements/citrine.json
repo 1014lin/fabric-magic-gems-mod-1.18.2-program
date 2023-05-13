@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "magicgemsmod:citrine"
+    },
+    "title": "Citrine",
+    "description": "Now start",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "magicgemsmod:magic_gems_mod",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "magicgemsmod:citrine"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

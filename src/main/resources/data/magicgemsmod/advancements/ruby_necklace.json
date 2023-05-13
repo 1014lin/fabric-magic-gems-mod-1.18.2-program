@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "magicgemsmod:ruby_necklace"
+    },
+    "title": "The power of magic",
+    "description": "The power of magic",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "magicgemsmod:ruby",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "magicgemsmod:ruby_necklace"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

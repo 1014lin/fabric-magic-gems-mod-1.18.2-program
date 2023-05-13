@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "magicgemsmod:citrine_ore",
+    "magicgemsmod:sapphire_ore",
+    "magicgemsmod:ruby_ore",
+    "magicgemsmod:strengthen_enhancer_ore",
+    "magicgemsmod:silver_ore",
+    "magicgemsmod:titanium_ore",
+    "magicgemsmod:middle_level_coal_ore"
+  ]
+}

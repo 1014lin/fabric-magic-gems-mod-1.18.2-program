@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "X X",
+    " A "
+  ],
+  "key": {
+    "X": {
+      "item": "magicgemsmod:titanium_ingot"
+    },
+    "A": {
+      "item": "magicgemsmod:citrine"
+    }
+  },
+  "result": {
+    "item": "magicgemsmod:citrine_necklace"
+  }
+}

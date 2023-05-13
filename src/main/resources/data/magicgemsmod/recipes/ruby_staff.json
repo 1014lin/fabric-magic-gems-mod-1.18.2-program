@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " X ",
+    " A ",
+    " A "
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "magicgemsmod:ruby"
+    }
+  },
+  "result": {
+    "item": "magicgemsmod:ruby_staff"
+  }
+}

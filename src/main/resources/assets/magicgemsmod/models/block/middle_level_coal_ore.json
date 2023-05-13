@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "magicgemsmod:block/middle_level_coal_ore"
+  }
+}

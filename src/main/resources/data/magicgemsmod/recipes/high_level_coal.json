@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#X ",
+    "   ",
+    "   "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:middle_level_coal"
+    },
+    "X": {
+      "item": "magicgemsmod:strengthen_enhancer"
+    }
+  },
+  "result": {
+    "item": "magicgemsmod:high_level_coal"
+  }
+}

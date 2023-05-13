@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " X ",
+    " X ",
+    " A "
+  ],
+  "key": {
+    "X": {
+      "item": "magicgemsmod:zircon"
+    },
+    "A": {
+      "item": "magicgemsmod:titanium_ingot"
+    }
+  },
+  "result": {
+    "item": "magicgemsmod:zircon_sword"
+  }
+}

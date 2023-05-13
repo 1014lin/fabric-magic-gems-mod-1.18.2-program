@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "magicgemsmod:silver_ingot"
+    },
+    "title": "magic gems mod",
+    "description": "The trip will start soon!",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "background": "minecraft:textures/block/stone.png"
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "magicgemsmod:silver_ingot"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

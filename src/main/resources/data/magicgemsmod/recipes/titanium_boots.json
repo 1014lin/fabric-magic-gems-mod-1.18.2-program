@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X X",
+    "X X"
+  ],
+  "key": {
+    "X": {
+      "item": "magicgemsmod:titanium_ingot"
+    }
+  },
+  "result": {
+    "item": "magicgemsmod:titanium_boots"
+  }
+}

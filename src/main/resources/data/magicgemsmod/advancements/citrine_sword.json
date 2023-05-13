@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "magicgemsmod:citrine_sword"
+    },
+    "title": "Sword?",
+    "description": "No magic but physical damage",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "magicgemsmod:citrine",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "magicgemsmod:citrine_sword"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
