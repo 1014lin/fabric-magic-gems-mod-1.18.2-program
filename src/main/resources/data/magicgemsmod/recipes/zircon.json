@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BA ",
+    "DX ",
+    "   "
+  ],
+  "key": {
+    "X": {
+      "item": "magicgemsmod:citrine"
+    },
+    "A": {
+      "item": "magicgemsmod:sapphire"
+    },
+    "B": {
+      "item": "magicgemsmod:ruby"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "magicgemsmod:zircon"
+  }
+}
