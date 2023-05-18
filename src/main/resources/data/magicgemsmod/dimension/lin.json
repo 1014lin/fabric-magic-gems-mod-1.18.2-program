@@ -2,8 +2,8 @@
   "type": "magicgemsmod:lin",
   "generator": {
     "type": "minecraft:noise",
-    "seed": -485105919,
-    "settings": "minecraft:overworld",
+    "seed": -1676914701,
+    "settings": "minecraft:floating_islands",
     "biome_source": {
       "type": "minecraft:fixed",
       "biome": "minecraft:plains"
