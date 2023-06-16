@@ -17,6 +17,7 @@ repositories {
 	// See https://docs.gradle.org/current/userguide/declaring_repositories.html
 	// for more information about repositories.
 	maven {url = "https://maven.kyrptonaught.dev"}
+	maven { url "https://maven.shedaniel.me" }
 }
 
 dependencies {
@@ -30,6 +31,9 @@ dependencies {
 
 	modImplementation 'net.kyrptonaught:customportalapi:0.0.1-beta50-1.18'
 	include 'net.kyrptonaught:customportalapi:0.0.1-beta50-1.18'
+
+	modCompileOnly "me.shedaniel:RoughlyEnoughItems-api-fabric:${project.roughly_enough_items_version}"
+	modRuntimeOnly "me.shedaniel:RoughlyEnoughItems-fabric:${project.roughly_enough_items_version}"
 }
 
 processResources {
